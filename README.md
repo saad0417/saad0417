@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Muhammad Saad Akhtar 👋
 
-<!--
-**saad0417/saad0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Software Engineering @ Superior University Lahore  
+💻 Passionate about building real-world projects in Web Dev, OOP & System Design  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+**Frontend:** React.js · Redux Toolkit · Tailwind CSS · React Router  
+**Languages:** JavaScript · C++ · Java  
+**Backend/DB:** Node.js · Express.js · SQL Server · MongoDB  
+**Tools:** Git · Vite · Appwrite · Socket.io  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🛒 E-Commerce Store — React.js + Redux + Tailwind  
+- 📦 Booking Management System — C++ + SQL Server  
+- 💱 Currency Converter — React.js + Live API  
+- 🐦 Flappy Bird — Java Swing (pure procedural graphics)  
+- 🛍️ Grocery Billing System — C++ GUI  
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-link)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/your-username)
