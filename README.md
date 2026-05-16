@@ -8,8 +8,8 @@
 ## 🛠️ Tech Stack
 **Frontend:** React.js · Redux Toolkit · Tailwind CSS · React Router  
 **Languages:** JavaScript · C++ · Java  
-**Backend/DB:** Node.js · Express.js · SQL Server · MongoDB  
-**Tools:** Git · Vite · Appwrite · Socket.io  
+**Backend/DB:** Node.js · Express.js · SQL Server · MongoDB 
+**Tools:** Git · Vite · Appwrite 
 
 ---
 
