@@ -14,11 +14,12 @@
 ---
 
 ## 🚀 Projects
-- 🛒 E-Commerce Store — React.js + Redux + Tailwind  
-- 📦 Booking Management System — C++ + SQL Server  
-- 💱 Currency Converter — React.js + Live API  
-- 🐦 Flappy Bird — Java Swing (pure procedural graphics)  
-- 🛍️ Grocery Billing System — C++ GUI  
+- 🛒 E-Commerce Store — React.js + Redux + Tailwind
+- 📝 MegaBlog — React.js + Appwrite
+- 📦 Booking Management System — C++ + SQL Server
+- 💱 Currency Converter — React.js + Live API
+- 🐦 Flappy Bird — Java Swing (pure procedural graphics)
+- 🛍️ Grocery Billing System — C++ GUI
 
 ---
 
