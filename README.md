@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Projects
-- 🎬 [VidTube](https://github.com/saad0417/Vidtube-FullStack) — Full-stack video sharing platform: React.js + Node.js + Express.js + MongoDB + Cloudinary · [Live Demo](https://vidtubeoffical.vercel.app)
+- 🎬 [VidTube](https://github.com/saad0417/Vidtube-FullStack) — Full-stack video sharing platform: React.js + Node.js + Express.js + MongoDB + Cloudinary · [Live Demo](https://vidtubeofficial.vercel.app)
 - 🛒 [E-Commerce Store](https://github.com/saad0417/Ecommerce-Store-FrontEnd-) — React.js + Redux + Tailwind · [Live Demo](https://shopwithsaad.vercel.app/)
 - 📝 [MegaBlog](https://github.com/saad0417/MegaBlog2.0) — React.js + Appwrite · [Live Demo](https://mega-blog2-0.vercel.app)
 - 📦 [Booking Management System](https://github.com/saad0417/Booking-Management-System-with-Database-C-SQL-) — C++ + SQL Server
